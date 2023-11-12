@@ -1,0 +1,3 @@
+infinity;3500;amd;8;false
+thinkpad;8500;intel;16;true
+mac;10000;intel;4;false
